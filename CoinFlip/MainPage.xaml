@@ -17,8 +17,9 @@
                 x:Name="HeadTailsPicker"
                 Title="Selecione cara ou coroa">
                 <Picker.Items>
-                    <x:String>Cara</x:String>
-                    <x:String>Coroa</x:String>
+                    <x:String>Pedra</x:String>
+                    <x:String>Papel</x:String>
+                    <x:String>Tesoura</x:String>
                 </Picker.Items>
             </Picker>
             <Button
